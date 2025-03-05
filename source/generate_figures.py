@@ -2,6 +2,8 @@
 # date: 2021-11-22
 # Adapted from github.com/ttimbers/equine_numbers_value_canada_parameters
 # Conversion from R to Python done using ChatGPT
+import sys
+print(sys.executable)
 
 import click
 import pandas as pd
